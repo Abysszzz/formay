@@ -1,0 +1,7 @@
+# 本地测试与验证临时文件
+_qa/
+_check.js
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
